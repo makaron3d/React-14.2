@@ -3,19 +3,19 @@ var movies = [
         id: 1,
         title: 'Harry Potter',
         desc: 'film o czarodzieju',
-        img: src = 'one.jpeg',
+        src: 'http://getfound.pl/wp-content/uploads/2014/09/Alegriphotos.jpg',
     },
     {
         id: 2,
         title: 'Król Lew',
         desc: 'Film o królu sawanny',
-        img: src = 'one.jpeg',
+        src: 'http://getfound.pl/wp-content/uploads/2014/09/Alegriphotos.jpg',
     },
     {
         id: 3,
         title: 'Rocky',
         desc: 'Film o bokserze',
-        img: src = 'one.jpeg',
+        src: 'http://getfound.pl/wp-content/uploads/2014/09/Alegriphotos.jpg',
     },
 
 ];
